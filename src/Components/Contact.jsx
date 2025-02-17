@@ -8,7 +8,7 @@ export default function Contact() {
     return (
         <>
             <div>
-                <h1 className="text-4xl text-cyan-500 font-bold text-center mb-16 md:text-6xl">Contact</h1>
+                <h1 className="text-4xl text-cyan-500 font-bold text-center mb-16 md:text-6xl xl:my-12">Contact</h1>
                 <div className="text-center text-lg grid grid-rows-3 justify-center gap-4 mb-12">
                     <div className="grid grid-rows-2 gap-2">
                         <span className="grid justify-center">

@@ -20,7 +20,7 @@ export default function Education() {
 
       return (
         <section>
-          <div className="container mx-auto px-6">
+          <div className="container mx-auto px-6 xl:my-12">
             <h2 className="text-4xl text-cyan-400 font-bold text-center mb-8 md:text-6xl md:mb-16">Education</h2>
             <Slider
               items={educationData}
