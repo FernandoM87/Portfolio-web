@@ -19,7 +19,7 @@ export default function Skills() {
     return (
         <>
             <div >
-                <h1 className="text-4xl text-cyan-500 font-bold text-center mb-10 md:text-6xl md:mb-14 xl:my-12">Skills</h1>
+                <h1 className="text-4xl text-cyan-500 font-bold text-center mb-10 md:text-6xl md:mb-14 xl:my-20">Skills</h1>
                 <div className="bg-slate-700 shadow-2xl mx-8 p-6 mb-10 md:mb-16">
                     <h2 className="text-4xl text-cyan-500 font-bold text-center mb-5 md:text-5xl">Front-end</h2>
                     <div className="border border-gray-400 mb-10"></div>
