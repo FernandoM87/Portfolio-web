@@ -13,7 +13,7 @@ export default function Home() {
 
     return (
         <>
-            <div className="mt-20 mx-12 md:text-center">
+            <div className="mt-20 mx-12 md:text-center xl:my-24">
                 <h1 className="text-5xl text-cyan-500 font-bold md:text-7xl">Welcome to my portfolio!</h1>
                 <p className="text-3xl mt-10 md:text-5xl md:mt-24">My name is Diego and I am a fullstack Javascript developer</p>
                 <div>

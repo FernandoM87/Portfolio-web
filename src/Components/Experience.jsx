@@ -3,7 +3,7 @@ import React, { useState, useRef, useEffect } from 'react';
 export default function Experience() {
     return (
         <>
-            <div className="mb-16 md:mb-16">
+            <div className="mb-16 md:mb-16 xl:my-32">
                 <h1 className="text-4xl text-cyan-500 font-bold text-center mb-10 md:text-6xl md:mb-16">Experience</h1>
                 <div className="bg-slate-700 shadow-2xl mx-8 p-6 rounded-xl md:p-8">
                     <h2 className="text-4xl text-cyan-500 font-bold text-center mb-5 md:text-5xl">Sogram Invest AB</h2>

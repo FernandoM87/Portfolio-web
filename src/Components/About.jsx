@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 
 export default function About() {
     return (
-        <div className="container mx-auto px-12">
+        <div className="container mx-auto px-12 xl:my-32">
             <h2 className="text-4xl text-cyan-500 font-bold text-center mb-8 md:text-6xl md:mb-16">About me</h2>
             <div className="flex flex-col md:flex-row items-center justify-between">
                 
