@@ -3,9 +3,9 @@ import { FaHammer } from 'react-icons/fa';
 
 export default function Projects() {
     return (
-        <div className="flex flex-col items-center justify-center bg-slate-700 relative overflow-hidden -z-50 md:h-[763px] md:w-full md:mb-16">
+        <div className="flex flex-col items-center justify-center h-[586px] bg-slate-700 overflow-hidden md:h-[763px] md:w-full md:mb-16">
             {/* Icon */}
-            <div className="animate-bounce p-6 bg-sky-500 rounded-full shadow-lg relative">
+            <div className="p-6 bg-sky-500 rounded-full shadow-lg">
                 <FaHammer className="text-white text-6xl" />
             </div>
 
